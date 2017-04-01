@@ -1,0 +1,22 @@
+1 
+Barcelona 3000000
+1 
+Manchester 5000000 
+0 
+0  
+Messi 29 score 100000 200000 100 5 
+1 
+C_R 31 score 50000 190000 90 6 
+1 
+Wangdalei 26 defend 50000 130000 3 4 
+1 
+Neymar 24 score 110000 180000 70 2
+1
+Alex 20 score 1100000 1900000 100 1
+0  
+1  
+Michael 30 defend 500000 290000 30 4 
+1
+Monica 21 score 30000 200000 50 2
+0  
+-1    
